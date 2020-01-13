@@ -1,0 +1,6 @@
+nand2tetris/assembler/helper/Helper.class
+nand2tetris/assembler/code/Code.class
+nand2tetris/assembler/runner/App.class
+nand2tetris/assembler/model/CommandTypes.class
+nand2tetris/assembler/parser/Parser.class
+nand2tetris/assembler/symboltable/SymbolTable.class
